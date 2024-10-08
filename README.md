@@ -1,6 +1,6 @@
 # React Film
 
-## Resume
+## Summary
 
 Creation of the React (+ Vite.js) responsive Front-End Choice Movie using a JSON file.
 
